@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    text-align: center;
+    color:black;
+}
+
+.my-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
